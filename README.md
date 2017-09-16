@@ -3,9 +3,9 @@ A project repository made for employers to see what I've done.
 
 A description of all my projects and gifs to how it looks.
 
-Codepath Projects :
+## Codepath Projects :
 
-## Video Walkthrough 
+# Video Walkthrough 
 Twitter_API : A twitter mock application to achieve network data transfers using RESTful API calls to manipulate data inside our app.
 
 Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network data transfers using iOS sdk objects such as URLsessionDataTask. Mainly used iOS SDK to render most of the UI inside the application. Authenication with BDBOAuth1Manager for twitter log in and registration. Implemented infinite scrolling.
@@ -14,9 +14,7 @@ Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-## Video Walkthrough 
+# Video Walkthrough 
 
 Yelp : A Yelp mock application to play with iOS mapkit and auto layout contraints.
 
@@ -26,7 +24,14 @@ Tech : Mapkit, iOS sdk for rendering UI.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+## Self Interested Projects : 
 
+# Video Walkthrough 
+
+Youtube : A Youtube mock application to achieve custom UI perfection
+
+Tech : iOS sdk to render most UI. Lots of custom UI was rendered like the custom navbar, custom dim animation, and custom tab bar.
 
 <img src='https://media.giphy.com/media/3ov9jHYZ7j3E0Hdg40/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
