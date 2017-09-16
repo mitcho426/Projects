@@ -33,6 +33,16 @@ Tech : Mapkit, iOS sdk for rendering UI.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Video Walkthrough 
+
+TipCalc : A tip calculator. My very first iOS mobile application.
+
+Tech : iOS SDK
+
+<img src='http://imgur.com/fAQEM0h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Self Interested Projects : 
 
 # Video Walkthrough 
@@ -54,4 +64,5 @@ Tech : iOS Core Data geometry objects. UI animation.
 <img src='https://media.giphy.com/media/l0IsHWwmLT5fpWRLG/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
