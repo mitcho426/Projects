@@ -24,6 +24,14 @@ Tech : Mapkit, iOS sdk for rendering UI.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://imgur.com/NsssoEz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Self Interested Projects : 
 
 # Video Walkthrough 
