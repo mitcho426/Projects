@@ -29,4 +29,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 
-<img src='http://gph.is/2x2DcbG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/3ov9jHYZ7j3E0Hdg40/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
