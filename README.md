@@ -27,3 +27,6 @@ Tech : Mapkit, iOS sdk for rendering UI.
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+
+
+<img src='http://gph.is/2x2DcbG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
