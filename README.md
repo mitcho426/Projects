@@ -6,7 +6,7 @@ A description of all my projects and gifs to how it looks.
 ## Codepath Projects :
 
 # Video Walkthrough 
-Twitter_API : A twitter mock application to achieve network data transfers using RESTful API calls to manipulate data inside our app.
+Twitter_API : A twitter mock application to achieve all of twitter's mobile application main functions.
 
 Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network data transfers using iOS sdk objects such as URLsessionDataTask. Mainly used iOS SDK to render most of the UI inside the application. Authenication with BDBOAuth1Manager for twitter log in and registration. Implemented infinite scrolling.
 
@@ -15,20 +15,21 @@ Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 # Video Walkthrough 
+MovieViewer : A app that shows all the current "now playing" movies in the theaters and "top rated" movies of all time.
 
-Yelp : A Yelp mock application to play with iOS mapkit and auto layout contraints.
+Tech : Utilize RESTful API to GET data from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+<img src='https://media.giphy.com/media/xT9IgynwAnx5G3NVNm/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+# Video Walkthrough 
+Yelp : A Yelp mock application to achieve some of Yelp's searching functions and map displays.
 
 Tech : Mapkit, iOS sdk for rendering UI. 
 
 <img src='http://imgur.com/xdDXNZ9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://imgur.com/NsssoEz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
