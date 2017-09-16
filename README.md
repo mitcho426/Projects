@@ -35,3 +35,14 @@ Tech : iOS sdk to render most UI. Lots of custom UI was rendered like the custom
 <img src='https://media.giphy.com/media/3ov9jHYZ7j3E0Hdg40/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+# Video Walkthrough 
+
+CurvedAnimation : A quick app to play with drawAnimation. Mimicks facebook's live video liking/favoriting animation.
+
+Tech : iOS Core Data geometry objects. UI animation.
+
+<img src='https://media.giphy.com/media/l0IsHWwmLT5fpWRLG/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
