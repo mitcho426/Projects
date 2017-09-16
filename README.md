@@ -3,6 +3,20 @@ A project repository made for employers to see what I've done.
 
 A description of all my projects and gifs to how it looks.
 
+## Projects that solve real world problems and will be in AppStore
+
+# Video Walkthrough
+Eventopia : A event app developed by Thomas Zhu and I for City College of San Francisco. All users can create events and all users can join events. Users can chat with one another when they attend the same event.
+
+Tech : ParseFacebook Auth/Login, Parse Database, Parse Live Query, Google Calendar API, Multi-threading, Push notication for chat feature, iOS sdk to render most UI, custom fonts, 
+
+<img src='https://media.giphy.com/media/3ohhwm5bgGTgFoYS0E/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+In depth youtube video of the application with me talking over it.
+https://www.youtube.com/watch?v=qZigdQthdXE&t=
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Codepath Projects :
 
 # Video Walkthrough 
