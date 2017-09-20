@@ -4,8 +4,6 @@ A project repository made for employers to see what I've done.
 A description of all my projects and gifs to how it looks.
 
 ## Projects that solve real world problems and will be in AppStore
-
-# Video Walkthrough
 THIS APP IS STILL IN PROGRESS!
 
 RecoverTogether : With the support of friends and family, people can replace habits with healthy behaviors.  Supporters can store message in the cloud to motivate their loved ones.  When craving recovering users are motivated with messages from supporters. 
@@ -16,7 +14,6 @@ Tech : Cocoa, Auto Layout, UIKit, Swift, iphone SDKs : (Firebase, cocoapods), in
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# Video Walkthrough
 Eventopia : A event app developed by Thomas Zhu and I for City College of San Francisco. All users can create events and all users can join events. Users can chat with one another when they attend the same event.
 
 Tech : ParseFacebook Auth/Login, Parse Database, Parse Live Query, Google Calendar API, Multi-threading, Push notication for chat feature, iOS sdk to render most UI, custom fonts, 
@@ -30,7 +27,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Codepath Projects :
 
-# Video Walkthrough 
 Twitter_API : A twitter mock application to achieve all of twitter's mobile application main functions.
 
 Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network data transfers using iOS sdk objects such as URLsessionDataTask. Mainly used iOS SDK to render most of the UI inside the application. Authenication with BDBOAuth1Manager for twitter log in and registration. Implemented infinite scrolling.
@@ -39,7 +35,6 @@ Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# Video Walkthrough 
 MovieViewer : A app that shows all the current "now playing" movies in the theaters and "top rated" movies of all time.
 
 Tech : Utilize RESTful API to GET data from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -48,8 +43,6 @@ Tech : Utilize RESTful API to GET data from [The Movie Database API](http://docs
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-
-# Video Walkthrough 
 Yelp : A Yelp mock application to achieve some of Yelp's searching functions and map displays.
 
 Tech : Mapkit, iOS sdk for rendering UI. 
@@ -58,7 +51,6 @@ Tech : Mapkit, iOS sdk for rendering UI.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Video Walkthrough 
 TipCalc : A tip calculator. My very first iOS mobile application.
 
 Tech : iOS SDK
@@ -69,7 +61,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Self Interested Projects : 
 
-# Video Walkthrough 
 Youtube : A Youtube mock application to achieve custom UI perfection
 
 Tech : iOS sdk to render most UI. Lots of custom UI was rendered like the custom navbar, custom dim animation, and custom tab bar.
@@ -78,7 +69,6 @@ Tech : iOS sdk to render most UI. Lots of custom UI was rendered like the custom
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# Video Walkthrough 
 CurvedAnimation : A quick app to play with drawAnimation. Mimicks facebook's live video liking/favoriting animation.
 
 Tech : iOS Core Data geometry objects. UI animation.
