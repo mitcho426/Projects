@@ -6,7 +6,7 @@ A description of all my projects and gifs to how it looks.
 # Start-Up Projects : These apps will eventually be on the Appstore
 THIS APP IS STILL IN PROGRESS!
 
-## RecoverTogether
+## RecoverTogether : This app is still in progress
 RecoverTogether : With the support of friends and family, people can replace habits with healthy behaviors.  Supporters can store message in the cloud to motivate their loved ones.  When craving recovering users are motivated with messages from supporters. 
 
 Tech : Cocoa, Auto Layout, UIKit, Swift, iphone SDKs : (Firebase, cocoapods), integration with cloud based solutions, working on implementation and design of RecoverTogether with the iOS team, such as the observer pattern, delegate pattern and singleton pattern. Fixing bugs. Threading , multi-threading, asynchronous development.
