@@ -3,7 +3,7 @@ A project repository made for employers to see what I've done.
 
 A description of all my projects and gifs to how it looks.
 
-# Freelance Work : Apps that will go in the appstore.
+# Freelance Work : Glimpse of apps that will be in the appstore
 
 ## RecoverTogether : This app is still in progress
 RecoverTogether : With the support of friends and family, people can replace habits with healthy behaviors.  Supporters can store message in the cloud to motivate their loved ones.  When craving recovering users are motivated with messages from supporters. 
