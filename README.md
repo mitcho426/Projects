@@ -1,4 +1,4 @@
-# Projects
+# Experience
 A project repository made for employers to see what I've done.
 
 A description of all my projects and gifs to how it looks.
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=qZigdQthdXE&t=
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# Codepath Projects :
+# Projects :
 
 ## Twitter_API
 Twitter_API : A twitter mock application to achieve all of twitter's mobile application main functions.
@@ -53,8 +53,6 @@ Tech : iOS SDK
 <img src='http://imgur.com/fAQEM0h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-# Self Learning Projects :
 
 ## Youtube
 Youtube : A Youtube mock application to achieve custom UI perfection
