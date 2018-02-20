@@ -4,16 +4,6 @@ A project repository made for employers to see what I've done.
 A description of all my projects and gifs to how it looks.
 
 # Freelance Work : Glimpse of apps that will be in the appstore
-
-## RecoverTogether : This app is still in progress
-RecoverTogether : With the support of friends and family, people can replace habits with healthy behaviors.  Supporters can store message in the cloud to motivate their loved ones.  When craving recovering users are motivated with messages from supporters. 
-
-Tech : Cocoa, Auto Layout, UIKit, Swift, iphone SDKs : (Firebase, cocoapods), integration with cloud based solutions, working on implementation and design of RecoverTogether with the iOS team, such as the observer pattern, delegate pattern and singleton pattern. Fixing bugs. Threading , multi-threading, asynchronous development.
-
-<img src='https://media.giphy.com/media/3ov9jYbVeRiP7n4UF2/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Eventopia
 Eventopia : A event app developed by Thomas Zhu and I for City College of San Francisco. All users can create events and all users can join events. Users can chat with one another when they attend the same event.
 
