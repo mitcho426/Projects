@@ -5,9 +5,11 @@ A description of all my projects and gifs to how it looks.
 
 # Freelance Work : Glimpse of apps that will be in the appstore
 ## Eventopia
-Eventopia : A event app developed by Thomas Zhu and I for City College of San Francisco. All users can create events and all users can join events. Users can chat with one another when they attend the same event.
+Eventopia : A specified college event application that aims to bring students more involved with each other. The idea started from observing the amount of events hosted by our college but the lack of awareness. The only time you could find out about an event is through college website, a poster on a wall, or word of mouth. We wanted to change that by creating a app where colleges could host their events as well as students.
 
-Tech : ParseFacebook Auth/Login, Parse Database, Parse Live Query, Google Calendar API, Multi-threading, Push notication for chat feature, iOS sdk to render most UI, custom fonts, 
+Developed by Thomas Zhu and I for City College of San Francisco. All users can create events and all users can join events. Users can chat with one another when they attend the same event.
+
+Tech : ParseFacebook Auth/Login, Parse Database, Parse Live Query, Google Calendar API, GCD-Multi-threading, Push notication for chat feature, iOS sdk to render most UI, custom fonts, object-oriented design
 
 <img src='https://media.giphy.com/media/3ohhwm5bgGTgFoYS0E/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -16,7 +18,9 @@ https://www.youtube.com/watch?v=qZigdQthdXE&t=
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# Projects :
+# Earlier Projects :
+
+Mock apps to demonstrate my understanding of the world's most used applications.
 
 ## Twitter_API
 Twitter_API : A twitter mock application to achieve all of twitter's mobile application main functions.
