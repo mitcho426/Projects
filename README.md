@@ -25,7 +25,7 @@ Mock apps to demonstrate my understanding of the world's most used applications.
 ## Yelp
 Yelp : A Yelp mock application to achieve some of Yelp's searching functions and map displays.
 
-Tech : Mapkit, iOS sdk for rendering UI. 
+Tech : Mapkit for locations, UIKit for rendering UI. 
 
 <img src='http://imgur.com/xdDXNZ9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Youtube
 Youtube : A Youtube mock application to achieve custom UI perfection
 
-Tech : iOS sdk to render most UI. Lots of custom UI was rendered like the custom navbar, custom dim animation, and custom tab bar.
+Tech : UIKit for rendering UI. Lots of custom UI was rendered with tricks, custom dim animation, and custom tab bar.
 
 <img src='https://media.giphy.com/media/3ov9jHYZ7j3E0Hdg40/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -43,7 +43,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## CurvedAnimation
 CurvedAnimation : A quick app to play with drawAnimation. Mimicks facebook's live video liking/favoriting animation.
 
-Tech : iOS Core Data geometry objects. UI animation.
+Tech : UIKit - UI animation.
 
 <img src='https://media.giphy.com/media/l0IsHWwmLT5fpWRLG/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
