@@ -22,39 +22,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Mock apps to demonstrate my understanding of the world's most used applications.
 
-## Twitter_API
-Twitter_API : A twitter mock application to achieve all of twitter's mobile application main functions.
-
-Tech : Utilize Twitter's RESTful API to GET, PUT, POST, and DELETE data. Network data transfers using iOS sdk objects such as URLsessionDataTask. Mainly used iOS SDK to render most of the UI inside the application. Authenication with BDBOAuth1Manager for twitter log in and registration. Implemented infinite scrolling.
-
-<img src='http://imgur.com/WqqwkbK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## MovieViewer
-MovieViewer : A app that shows all the current "now playing" movies in the theaters and "top rated" movies of all time.
-
-Tech : Utilize RESTful API to GET data from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-<img src='https://media.giphy.com/media/xT9IgynwAnx5G3NVNm/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Yelp
 Yelp : A Yelp mock application to achieve some of Yelp's searching functions and map displays.
 
 Tech : Mapkit, iOS sdk for rendering UI. 
 
 <img src='http://imgur.com/xdDXNZ9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## TipCalc
-TipCalc : A tip calculator. My very first iOS mobile application.
-
-Tech : iOS SDK
-
-<img src='http://imgur.com/fAQEM0h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
